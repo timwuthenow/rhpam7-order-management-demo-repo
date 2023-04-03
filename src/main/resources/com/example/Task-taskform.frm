@@ -1,0 +1,1 @@
+{"id":"1cc2b5b0-424d-4418-a4ee-1bf6678379b9","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"Order-Management.erp-integration","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
